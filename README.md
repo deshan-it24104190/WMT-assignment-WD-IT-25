@@ -16,7 +16,7 @@ WD-IT-25
 
 ## GitHub Repository:
 
-https://github.com/deshan-it24104190/WMT-assignment-WD-IT-25.git
+https://github.com/deshan-it24104190/WMT-assignment-WD-IT-25
 
 ---
 

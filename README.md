@@ -47,7 +47,6 @@ Managing vehicle spare parts, services, orders, and inventory manually is slow, 
 
 - Admin
 - Customers
-- Suppliers
 
 ---
 

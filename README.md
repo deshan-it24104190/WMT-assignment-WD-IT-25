@@ -28,12 +28,12 @@ https://wmt-assignment-wd-it-25-production.up.railway.app
 
 ## Team Members:
 
-IT24101143 – Dilka K.B.T – Order and Payment Management
-IT24103406 – Ramanayaka R.A.S.S – Feedback / Review Management
-IT24100683 – Maryshalini A – Service Management
-IT24104190 – Deshan S.M.K – Product Management
-IT24102031 – Disanayaka K.G.G.S – Booking Management
-IT24100778 – Jayakody J.A.K.S.S – Inventory Management
+- IT24101143 – Dilka K.B.T – Order and Payment Management
+- IT24103406 – Ramanayaka R.A.S.S – Feedback / Review Management
+- IT24100683 – Maryshalini A – Service Management
+- IT24104190 – Deshan S.M.K – Product Management
+- IT24102031 – Disanayaka K.G.G.S – Booking Management
+- IT24100778 – Jayakody J.A.K.S.S – Inventory Management
 
 ---
 
@@ -53,19 +53,19 @@ Managing vehicle spare parts, services, orders, and inventory manually is slow, 
 
 ## Main Features:
 
-  -User registration and login
-  -JWT-based authentication
-  -User profile management
-  -Product management with image upload
-  -Product browsing and detailed view
-  -Cart and checkout functionality
-  -Order placement and history tracking
-  -Order status and delivery tracking
-  -Payment session handling
-  -Inventory management and low stock alerts
-  -Customer reviews and feedback system
-  -Service management and booking
-  -Admin dashboard overview
+- User registration and login
+- JWT-based authentication
+- User profile management
+- Product management with image upload
+- Product browsing and detailed view
+- Cart and checkout functionality
+- Order placement and history tracking
+- Order status and delivery tracking
+- Payment session handling
+- Inventory management and low stock alerts
+- Customer reviews and feedback system
+- Service management and booking
+- Admin dashboard overview
 
 ---
 

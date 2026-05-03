@@ -53,19 +53,19 @@ Managing vehicle spare parts, services, orders, and inventory manually is slow, 
 
 ## Main Features:
 
-- • User registration and login
-- • JWT-based authentication
-- • User profile management
-- • Product management with image upload
-- • Product browsing and detailed view
-- • Cart and checkout functionality
-- • Order placement and history tracking
-- • Order status and delivery tracking
-- • Payment session handling
-- • Inventory management and low stock alerts
-- • Customer reviews and feedback system
-- • Service management and booking
-- • Admin dashboard overview
+  -User registration and login
+  -JWT-based authentication
+  -User profile management
+  -Product management with image upload
+  -Product browsing and detailed view
+  -Cart and checkout functionality
+  -Order placement and history tracking
+  -Order status and delivery tracking
+  -Payment session handling
+  -Inventory management and low stock alerts
+  -Customer reviews and feedback system
+  -Service management and booking
+  -Admin dashboard overview
 
 ---
 
